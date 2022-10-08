@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(254, 205, 200);
+}
+.logo{
+    width: 20%;
+}
+.header{
+    background-image: url("img/header.jpg");
+    height: 80vh;
+    background-size: cover;
+    position: relative;
+    background-position:top center ;
+}
+  
